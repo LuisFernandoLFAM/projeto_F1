@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(poetry install *)",
+      "Bash(python -c ' *)",
+      "Bash(python3 -c \"with open\\('d:/Dados/Documentos - Note Dell/Arquivos Gerais/Cursos/EmpregaDados/03 - Trilha Python/Projeto_Python_01/projeto_F1/README.md', 'rb'\\) as f: raw = f.read\\(\\); print\\(repr\\(raw[:20]\\)\\)\")",
+      "Bash(python3 -c ' *)",
+      "Bash(python3 -c \"open\\('README.md','w',encoding='utf-8'\\).write\\('# projeto_F1\\\\n\\\\nPipeline de dados de Fórmula 1 via OpenF1 API.\\\\n'\\)\")",
+      "Bash(poetry run *)",
+      "Bash(poetry add *)",
+      "Bash(poetry lock *)"
+    ]
+  }
+}
